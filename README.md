@@ -20,3 +20,6 @@ This folder contains the code for verification experiments using the Sphere func
 - `analyze_metrics.py`: A script to plot the transition of the estimated number of effective dimensions ($N_{eff}$)
   - the plot is saved as PNG images in the `Images/` directory
 
+## Reference
+H.Nakagawa, K.Uchida and S.Shirakawa, "Evaluation of Element-wise Effectiveness Estimation
+for Augmented Lagrangian CMA-ES," 2026 Genetic and Evolutionary Computation Conference (GECCO), San José, Costa Rica, 2026
